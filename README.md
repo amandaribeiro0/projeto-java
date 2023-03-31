@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 Projeto 
 
-   
+  Aplicação feita em Java para sugerir um filme ou série baseado no gênero de sua preferência.
 
 ### ⚙ Pré-requisitos
 
